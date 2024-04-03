@@ -1,0 +1,33 @@
+body {
+    display: flex;
+}
+
+.message_container {
+    background: blue;
+    display: flex;
+    margin: auto;
+}
+.profile_picture {
+    background-color: yellow;
+}
+.main_body {
+    background: red;
+}
+.reply_box {
+    background-color: green;
+.profilname {
+    background-color: brown;
+}
+}
+.text_box {
+    background-color: aqua;
+}
+.link_box {
+    background-color: orange;
+}
+.report_button {
+    background-color: blueviolet;
+}
+.topleiste {
+    display: flex;
+}
